@@ -9,6 +9,8 @@
 🎲 සංහල & English Both API in One Request Method
 
 
+</> Json Format :  {'text':'Your text Here'}
+
 💁‍♂️ Example Methods,
 
 ◇ https://single-developers.herokuapp.com?write=Text
