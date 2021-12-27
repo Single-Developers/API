@@ -11,7 +11,7 @@
 
 </> Json Format :  {'text':'Your text Here'}
 
-💁‍♂️ Example Methods,
+💁‍♂️ Example Methods ,
 
 ◇ https://single-developers.herokuapp.com?write=Text
 
