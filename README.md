@@ -4,11 +4,11 @@
 
 ◇───── API Features ─────◇
 
--🚀 SSH Account Creator 
--🎨 Logo Maker
--✍️ Hand Writing 
--🔔 Hiru NEWS Updates
--📚 Helakuru NEWS Updates
+- 🚀 SSH Account Creator 
+- 🎨 Logo Maker
+- ✍️ Hand Writing 
+- 🔔 Hiru NEWS Updates
+- 📚 Helakuru NEWS Updates
 
-◇────────────────────────◇
+◇────────────────────◇
 
