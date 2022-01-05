@@ -14,12 +14,10 @@
 ## ◇────────────────────◇
 
 
-
-
 <details>
   <summary><b>✓✓ Single Developers </></b></summary>
 <br/>
 
-<p><span><img src="https://user-images.githubusercontent.com/85282650/148239722-9a519bd9-6660-4740-9b39-77f645b7b755.gif" alt=""/></span></p>
+<p><span><img src="https://user-images.githubusercontent.com/85282650/148240068-3e373f51-c8d1-425a-a75c-7c3728ee37fe.gif" alt=""/></span></p>
 </details>
 
