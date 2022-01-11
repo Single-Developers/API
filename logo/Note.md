@@ -1,6 +1,6 @@
 # 🎨 Logo Maker 🎨
 
-✅  සංහල  & English Both Supported !!!
+✅  සිංහල  & English Both Supported !!!
 
 ☘️ 5000+ Fonts Available 
 
