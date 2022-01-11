@@ -1,6 +1,6 @@
 # ✍️ Hand Writing API ✍️
 
-✅  සංහල  & English Both Supported !!!
+✅  සිංහල  & English Both Supported !!!
 
 🔰 Telegra.ph Image Results ( Response:302 )
 
