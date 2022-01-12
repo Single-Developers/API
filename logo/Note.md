@@ -16,21 +16,21 @@
 
 💁‍♂️ Example Methods,
 
-◇ `https://singledevelopers.com/logo?name=Logo`
+◇ `https://api.single-developers.software/logo?name=Logo`
 
-◇ `https://singledevelopers.com/logohq?name=Logo`
+◇ `https://api.single-developers.software/logohq?name=Logo`
 
-◇ `https://singledevelopers.com/logo?name==සිංහල`
+◇ `https://api.single-developers.software/logo?name==සිංහල`
 
-◇ `https://singledevelopers.com/logohq?name==සිංහල`
+◇ `https://api.single-developers.software/logohq?name==සිංහල`
 
 ##
 
 🔰 API Base URL,
 
-◇ `https://singledevelopers.com/logo?name=`
+◇ `https://api.single-developers.software/logo?name=`
 
-◇ `https://singledevelopers.com/logohq?name=`
+◇ `https://api.single-developers.software/logohq?name=`
 
 ##
 
