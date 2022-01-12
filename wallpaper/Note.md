@@ -1,4 +1,4 @@
-[![431f450b8566a9ab2a619](https://user-images.githubusercontent.com/85282650/148236230-15100b74-dac4-4291-be42-01792b27620e.png)](https://single-developers.herokuapp.com/wallpaper?search=Coding)
+[![431f450b8566a9ab2a619](https://user-images.githubusercontent.com/85282650/148236230-15100b74-dac4-4291-be42-01792b27620e.png)](https://api.single-developers.software/wallpaper?search=Coding)
 
 
 # 🖼 Wallpapers API 🖼
@@ -19,16 +19,16 @@
 
 💁‍♂️ Example Methods,
 
-◇ `https://single-developers.herokuapp.com/wallpaper?search=Dog`
+◇ `https://api.single-developers.software/wallpaper?search=Dog`
 
-◇ `https://single-developers.herokuapp.com/logohq?name=%20`
+◇ `https://api.single-developers.software/logohq?name=%20`
 
 
 ##
 
 🔰 API Base URL,
 
-◇ `https://single-developers.herokuapp.com/wallpaper?search=`
+◇ `https://api.single-developers.software/wallpaper?search=`
 
 ##
 
