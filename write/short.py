@@ -1,6 +1,6 @@
 import requests
 
-API = 'https://single-developers.herokuapp.com?write='
+API = 'https://api.single-developers.software?write='
 
 req = requests.post(API+input('Text : ').replace(' ','%20'))
 
