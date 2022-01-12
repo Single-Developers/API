@@ -16,21 +16,21 @@
 
 💁‍♂️ Example Methods,
 
-◇ `https://single-developers.herokuapp.com/logo?name=Logo`
+◇ `https://singledevelopers.com/logo?name=Logo`
 
-◇ `https://single-developers.herokuapp.com/logohq?name=Logo`
+◇ `https://singledevelopers.com/logohq?name=Logo`
 
-◇ `https://single-developers.herokuapp.com/logo?name==සිංහල`
+◇ `https://singledevelopers.com/logo?name==සිංහල`
 
-◇ `https://single-developers.herokuapp.com/logohq?name==සිංහල`
+◇ `https://singledevelopers.com/logohq?name==සිංහල`
 
 ##
 
 🔰 API Base URL,
 
-◇ `https://single-developers.herokuapp.com/logo?name=`
+◇ `https://singledevelopers.com/logo?name=`
 
-◇ `https://single-developers.herokuapp.com/logohq?name=`
+◇ `https://singledevelopers.com/logohq?name=`
 
 ##
 
