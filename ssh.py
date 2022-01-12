@@ -1,7 +1,7 @@
 import requests
 import json
 
-servers=json.loads(requests.get('https://single-developers.herokuapp.com/servers').content)
+servers=json.loads(requests.get('https://api.single-developers.software/servers').content)
 for server in servers:
     id=str(server)
     ip=servers[str(server)]['ip']
@@ -14,8 +14,8 @@ f"""◇ Server ID : {id}
 """)
 serverid=input('Server ID : ')
 
-server=json.loads(requests.get(f'https://single-developers.herokuapp.com/servers?id={serverid}').content)
-status=requests.get(f'https://single-developers.herokuapp.com/servers?status={serverid}').content
+server=json.loads(requests.get(f'https://api.single-developers.software/servers?id={serverid}').content)
+status=requests.get(f'https://api.single-developers.software/servers?status={serverid}').content
 ip=server['ip']
 location=server['location']
 emoji=server['emoji']
@@ -31,7 +31,7 @@ username=input('User Name : ')
 password=input('Password : ')
 
 ssh=serverid+'$'+username+'$'+password
-ssh_result=requests.get(f'https://single-developers.herokuapp.com/create?ssh={str(ssh)}').content
+ssh_result=requests.get(f'https://api.single-developers.software/create?ssh={str(ssh)}').content
 try:
     json_ssh=json.loads(ssh_result)
     user_name=json_ssh['username']
