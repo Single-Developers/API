@@ -18,21 +18,21 @@
 
 💁‍♂️ Example Methods ,
 
-◇ `https://single-developers.herokuapp.com?write=Text`
+◇ `https://api.single-developers.software?write=Text`
 
-◇ `https://single-developers.herokuapp.com?write1=Text`
+◇ `https://api.single-developers.software?write1=Text`
 
-◇ `https://single-developers.herokuapp.com?write=සිංහල`
+◇ `https://api.single-developers.software?write=සිංහල`
 
-◇ `https://single-developers.herokuapp.com?write1=සිංහල`
+◇ `https://api.single-developers.software?write1=සිංහල`
 
 ##
 
 🔰 API Base URL,
 
-◇ `https://single-developers.herokuapp.com?write=`
+◇ `https://api.single-developers.software?write=`
 
-◇ `https://single-developers.herokuapp.com?write1=`
+◇ `https://api.single-developers.software?write1=`
 
 ##
 
