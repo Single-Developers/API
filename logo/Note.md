@@ -30,7 +30,7 @@
 
 ◇ `https://api.single-developers.software/logo?name=`
 
-◇ `https://api.single-developers.software/logohq?name=`
+◇ `https://api.single-developers.software/logohq?name=` 
 
 ##
 
