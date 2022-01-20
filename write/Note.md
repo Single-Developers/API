@@ -12,7 +12,7 @@
 
 ##
 
-</> Json Format :  `{'text':'Your text Here'}`
+</> Json Format :  `{'text':'Your text Here'}` or `{'text':'සිංහලෙන් ලියන්න'}`
 
 ##
 
