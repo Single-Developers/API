@@ -18,7 +18,7 @@
 
 ◇ `https://api.single-developers.software/tiktok?url=https://vm.tiktok.com/O_O_O_O/`
 
-◇ `https://api.single-developers.software/tiktok?url=`https://vt.tiktok.com/OoooOOO/
+◇ `https://api.single-developers.software/tiktok?url=https://vt.tiktok.com/OoooOOO/`
 
 ◇ `https://api.single-developers.software/tiktok?url=https://m.tiktok.com/v/7046402343574719771.html`
 
