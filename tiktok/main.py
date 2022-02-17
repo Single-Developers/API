@@ -2,7 +2,7 @@ import requests
 
 API = 'https://api.single-developers.software/tiktok?url='
 
-req = requests.get(API+input('◇ TikTok URL :- '))
+req = requests.get(API+input('◇ TikTok URL :- ')).json()
 
 print('◇ Downloading No Watermark Video....')
 
