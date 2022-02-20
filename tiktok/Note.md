@@ -36,4 +36,6 @@
 
 ##
 
-[🙆‍♂️ Available Demo BOT](https://t.me/The_Shazam_BOT)
+🚧 Telegram : [🔥 SL Developers </> 🇱🇰](https://t.me/SL_Developers)<br>
+[📚 Example BOT Repo](https://github.com/Single-Developers/TikTok-DL-BOT)<br>
+🙆‍♂️ Demo: [🎧 MUSIC ҒIΠDΣR BOT 🎵](https://t.me/The_Shazam_BOT)
