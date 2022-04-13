@@ -16,13 +16,13 @@
 
 💁‍♂️ Example Methods ,
 
-◇ `https://api.single-developers.software/tiktok?url=https://www.tiktok.com/@user/video/0000`
+◇ `https://host.single-developers.software/tiktok?url=https://www.tiktok.com/@user/video/0000`
 
-◇ `https://api.single-developers.software/tiktok?url=https://vm.tiktok.com/O_O_O_O/`
+◇ `https://host.single-developers.software/tiktok?url=https://vm.tiktok.com/O_O_O_O/`
 
-◇ `https://api.single-developers.software/tiktok?url=https://vt.tiktok.com/OoooOOO/`
+◇ `https://host.single-developers.software/tiktok?url=https://vt.tiktok.com/OoooOOO/`
 
-◇ `https://api.single-developers.software/tiktok?url=https://m.tiktok.com/v/7046402343574719771.html`
+◇ `https://host.single-developers.software/tiktok?url=https://m.tiktok.com/v/7046402343574719771.html`
 
 ##
 
@@ -32,7 +32,7 @@
 
 🔰 API Base URL,
 
-◇ `https://api.single-developers.software/tiktok?url=`
+◇ `https://host.single-developers.software/tiktok?url=`
 
 ##
 

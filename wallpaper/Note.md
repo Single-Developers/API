@@ -1,4 +1,4 @@
-[![431f450b8566a9ab2a619](https://user-images.githubusercontent.com/85282650/148236230-15100b74-dac4-4291-be42-01792b27620e.png)](https://api.single-developers.software/wallpaper?search=Coding)
+[![431f450b8566a9ab2a619](https://user-images.githubusercontent.com/85282650/148236230-15100b74-dac4-4291-be42-01792b27620e.png)](https://host.single-developers.software/wallpaper?search=Coding)
 
 
 # 🖼 Wallpapers API 🖼
@@ -19,16 +19,16 @@
 
 💁‍♂️ Example Methods,
 
-◇ `https://api.single-developers.software/wallpaper?search=Dog`
+◇ `https://host.single-developers.software/wallpaper?search=Dog`
 
-◇ `https://api.single-developers.software/logohq?name=%20`
+◇ `https://host.single-developers.software/logohq?name=%20`
 
 
 ##
 
 🔰 API Base URL,
 
-◇ `https://api.single-developers.software/wallpaper?search=`
+◇ `https://host.single-developers.software/wallpaper?search=`
 
 ##
 
