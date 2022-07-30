@@ -1,4 +1,4 @@
-# 🔥 Single Developers </> [API](https://single-developers.up.railway.app) Examples
+# 🔥 Single Developers </> [API](https://api.single-developers.software) Examples
 
 [![sg logo (2)](https://user-images.githubusercontent.com/85282650/147440088-36b86193-0cbb-4c3a-854a-45b30bb3d05c.png)](https://t.me/SingleDevelopers)
 
