@@ -1,6 +1,6 @@
 import requests
 
-API = 'https://host.single-developers.software?write='
+API = 'https://api.single-developers.software?write='
 
 req = requests.post(API+input('Text : ').replace(' ','%20'))
 

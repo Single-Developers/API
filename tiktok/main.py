@@ -1,6 +1,6 @@
 import requests
 
-API = 'https://host.single-developers.software/tiktok?url='
+API = 'https://api.single-developers.software/tiktok?url='
 
 req = requests.get(API+input('◇ TikTok URL :- ')).json()
 
